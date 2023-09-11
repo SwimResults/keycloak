@@ -1,0 +1,8 @@
+/*
+!/themes/
+/themes/swimresults/*
+!/themes/swimresults/login/
+!/themes/swimresults/common/
+!README.md
+!Dockerfile
+!.gitignore
