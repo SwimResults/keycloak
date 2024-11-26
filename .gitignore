@@ -3,6 +3,7 @@
 /themes/swimresults/*
 !/themes/swimresults/login/
 !/themes/swimresults/common/
+!/providers/
 !README.md
 !Dockerfile
 !.gitignore
